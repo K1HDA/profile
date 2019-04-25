@@ -1,0 +1,121 @@
+body {
+  background: #eee;
+  font-family: Meiryo UI;
+}
+
+span {
+  font-family: TimesNewRoman;
+}
+
+.title-box {
+  width: 700px;
+  padding: 0.5em 1em;
+  color: #5d627b;
+  margin: 30px auto;
+  background: white;
+  border-top: solid 5px #5d627b;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.22);
+}
+
+.title-box p {
+  text-align: right;
+}
+
+.about-box {
+  width: 700px;
+  padding: 0.5em 1em;
+  color: #5d627b;
+  margin: 30px auto;
+  background: white;
+  border-top: solid 5px #5d627b;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.22);
+  text-align: center;
+}
+
+.about-box h1 {
+  text-align: left;
+}
+
+.about-box h3 {
+  text-align: left;
+}
+
+.about-box p {
+  text-align: right;
+}
+
+.icon {
+  width: 150px;
+  height: 150px;
+  border: 3px solid #bbb;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.22);
+  margin: auto;
+}
+
+.hobby-box {
+  width: 700px;
+  padding: 0.5em 1em;
+  color: #5d627b;
+  margin: 30px auto;
+  background: white;
+  border-top: solid 5px #5d627b;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.22);
+}
+
+.hobby-box p {
+  text-align: right;
+  font-weight: normal;
+}
+
+.whats-box {
+  width: 700px;
+  padding: 0.5em 1em;
+  color: #5d627b;
+  margin: 30px auto;
+  background: white;
+  border-top: solid 5px #5d627b;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.22);
+}
+
+.whats-box p {
+  text-align: center;
+}
+
+.link-box {
+  width: 700px;
+  padding: 0.5em 1em;
+  color: #5d627b;
+  margin: 30px auto;
+  background: white;
+  border-top: solid 5px #5d627b;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.22);
+  text-align: center;
+}
+
+.link-box h1 {
+  text-align: left;
+}
+
+.link-box h3 {
+  text-align: left;
+}
+
+.twitter{
+  width: 50px;
+  height: 50px;
+}
+
+.pixiv{
+  width: 50px;
+  height: 50px;
+}
+
+.soundcloud{
+  width: 50px;
+  height: 50px;
+}
+
+.footer{
+  text-align: center;
+  font-size: small;
+}
